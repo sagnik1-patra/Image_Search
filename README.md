@@ -12,7 +12,7 @@ A modern, responsive web app to search and view high-quality images from Unsplas
 -  Load More button
 
 ##  Live Demo
-[View Live App]([https://yourusername.github.io/image-search-app](https://imagarry.netlify.app/))
+[View Live App](https://imagarry.netlify.app/)
 
 ##  Tech Stack
 - HTML

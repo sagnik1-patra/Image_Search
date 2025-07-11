@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Image Search App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>📷 Image Search App</h1>
+    <div class="controls">
+      <input type="text" id="search-input" placeholder="Search for images..." />
+      <button id="search-btn">Search</button>
+      <button id="refresh-btn" title="Refresh results">🔄</button>
+      <button id="toggle-theme">🌙</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="image-grid"></div>
+    <div class="actions">
+      <button id="load-more-btn">Load More</button>
+    </div>
+  </main>
+
+  <footer>
+    <p>Powered by <a href="https://unsplash.com" target="_blank">Unsplash API</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

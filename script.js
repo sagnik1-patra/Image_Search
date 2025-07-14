@@ -1,4 +1,4 @@
-const ACCESS_KEY = "W4v9VltzX1_kxwFQp0gdeVRzHMB_KPgovYSY5KhD19g"; // Replace with your Unsplash API access key
+const ACCESS_KEY = "W4v9VltzX1_kxwFQp0gdeVRzHMB_KPgovYSY5KhD19g";
 let page = 1;
 let currentQuery = "";
 
